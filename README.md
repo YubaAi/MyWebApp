@@ -10,4 +10,4 @@ This is to for synchronization between local Git and GitHub.
 
 
 Signed by:
-__YubaAi__
+__YubaAi__.
